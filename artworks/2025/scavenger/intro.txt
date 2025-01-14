@@ -1,0 +1,14 @@
+The texture set coded "scavenger" is intended for 1. the modpack "The Winter
+Rescue", and 2. a request from @yaoyaoDream, both of which required junk items
+that can be scavenged, with a post-apocalyptic/post-war stage assumed.
+
+Each of the artworks meets one of three criteria:
+
+* The item is a scrap that can be recycled exclusively as raw material.
+
+* The item is something consumable, presumably a chemical product that cannot
+be produced after local industry has been destroyed.
+
+* The item is a useful tool, but has not been added by major mods.
+
+THIS TEXTURE SET IS OPEN. (Hy, 20250114)
