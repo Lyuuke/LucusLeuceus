@@ -12,4 +12,4 @@ be produced after local industry has been destroyed.
 
 * The item is a useful tool, but has not been added by major mods.
 
-THIS TEXTURE SET IS OPEN. (Hy, 20250203)
+THIS TEXTURE SET IS CLOSED. (Hy, 20250316)
