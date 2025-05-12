@@ -1,0 +1,7 @@
+The texture set coded "theurgical_automata_parts" contains textures of
+curious (probably) parts used to build modular golems with theurgical powers.
+
+This texture set was intended for my concept mod "Gehlon Reflection".
+
+THIS TEXTURE SET WAS CLOSED
+    LONG BEFORE THIS INTRO WAS WRITTEN. (Hy, 20250512)

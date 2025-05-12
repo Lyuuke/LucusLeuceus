@@ -1,0 +1,13 @@
+The texture set coded "zhongqiu" contains seasonable textures for the
+Sinospheric festival Zhongqiu (Mid-Autumn), namely:
+
+* Osmanthus flowers - fragrant blossoms around the season.
+
+* Mooncakes.
+
+* Crab, more specifically Eriocheir sinensis.
+
+This texture set was created for practice.
+
+THIS TEXTURE SET WAS CLOSED
+    LONG BEFORE THIS INTRO WAS WRITTEN. (Hy, 20250512)

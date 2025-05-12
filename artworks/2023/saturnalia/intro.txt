@@ -1,0 +1,11 @@
+The texture set coded "saturnalia" contains two seasonable textures for the
+ancient Roman festival Saturnalia, namely:
+
+* Fox tail.
+
+* Haws.
+
+This texture set was created for practice.
+
+THIS TEXTURE SET WAS CLOSED
+    LONG BEFORE THIS INTRO WAS WRITTEN. (Hy, 20250512)

@@ -1,0 +1,7 @@
+The texture set coded "primitive_tools" contains textures of primitive tools,
+which typically suit for neolithic backgrounds.
+
+This texture set was intended for my concept mod "Gehlon Reflection".
+
+THIS TEXTURE SET WAS CLOSED
+    LONG BEFORE THIS INTRO WAS WRITTEN. (Hy, 20250512)
